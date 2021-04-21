@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">navigation</string>
+
+
+    <string name="open">Abrir</string>
+    <string name="close">Fechar</string>
+</resources>
